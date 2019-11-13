@@ -1,0 +1,277 @@
+.one{
+	border: 1px solid black;
+	background-color: lavender;
+	border: none;
+	height: 600px;
+	width: 587px;
+	position: absolute;
+	top: 27px;
+	left: 370px;
+	box-shadow: 0px 5px 10px 0px;
+}
+
+h2{
+	color: royalblue;
+	position: absolute;
+	top: 20px;
+	left: 161px;
+	opacity: 0.9;
+}
+
+h1{
+	position: absolute;
+	top: 48px;
+	left: 233px;
+	opacity: 0.6;
+}
+
+img{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 120px;
+	left: 250px;
+
+}
+
+hr{
+	width: 300px;
+	position: absolute;
+	top: 228px;
+	left: 145px;
+}
+
+.two{
+	border: 2px solid royalblue;
+	height: 18px;
+	width: 50px;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+	position: absolute;
+	top: 228px;
+	left: 250px;
+}
+
+.three{
+	border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-top: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(120deg);
+    position: absolute;
+    top: 237px;
+    left: 142.50px;
+}
+
+.four{
+	border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-top: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(60deg);
+    position: absolute;
+    top: 234px;
+    left: 448px;
+}
+
+.five{
+	border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-radius: 50px;
+	position: absolute;
+	top: 242px;
+	left: 133px;
+}
+
+.six{
+	border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-radius: 50px;
+	position: absolute;
+	top: 242px;
+	left: 446px;
+}
+
+h6{
+	color: gray;
+	font-size: 10px;
+	position: absolute;
+	top: 225px;
+	left: 155px;
+}
+
+.seven{
+	   height: 70px;
+	   width: 70px;
+	   position: absolute;
+	   top: 260px;
+	   left: 100px;
+}
+
+.eight{
+	  position: absolute;
+	  left: 380px;
+}
+
+.nine{
+      height: 70px;
+	  width: 70px;
+	  position: absolute;
+	  top: 260px;
+	  left: 420px;
+}
+
+.ten{
+     width: 130px;
+	 position: absolute;
+	 top: 330px;
+	 left: 67px;	
+}
+
+.eleven{
+     border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-top: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(120deg);
+    position: absolute;
+    top: 339px;
+    left: 65px;	
+}
+
+.twelve{
+    border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-top: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(60deg);
+    position: absolute;
+    top: 335px;
+    left: 200px;	
+}
+
+.tharteen{
+	border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-radius: 50px;
+	position: absolute;
+	top: 345px;
+	left: 56px;
+}
+
+.fourteen{
+    border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-radius: 50px;
+	position: absolute;
+	top: 344px;
+	left: 199px;	
+}
+
+.fifteen{
+    height: 40px;
+	width: 40px;
+	position: absolute;
+	top: 363px;
+	left: 40px;
+}	
+
+.sixteen{
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	top: 362.50px;
+	left: 188px;
+}
+
+.seventeen{
+	 width: 130px;
+	 position: absolute;
+	 top: 330px;
+	 left: 385px;	
+
+}
+
+.eighteen{
+	 border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-top: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(120deg);
+    position: absolute;
+    top: 339px;
+    left: 383px;	
+}
+
+.nineteen{
+	border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-top: none;
+    border-left: none;
+    border-right: none;
+    transform: rotate(60deg);
+    position: absolute;
+    top: 335px;
+    left: 518px;	
+}
+
+.twenty{
+    border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-radius: 50px;
+	position: absolute;
+	top: 345px;
+	left: 374px;	
+}
+
+.twentyone{
+    border: 2px solid royalblue;
+	height: 8px;
+	width: 8px;
+	border-radius: 50px;
+	position: absolute;
+	top: 344px;
+	left: 517px;	
+}
+
+.twentytwo{
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	top: 363px;
+	left: 360px;
+}
+
+.twentythree{
+	height: 40px;
+	width: 40px;
+	position: absolute;
+	top: 363px;
+	left: 507px;
+}
+
+.twentyfour{
+	position: absolute;
+	top: 450px;
+	left: 210px;
+	width: 180px;
+	height: 120px;
+	opacity: 0.2;
+}
